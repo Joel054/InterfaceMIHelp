@@ -1,0 +1,36 @@
+@media only screen and (min-width: 1200px) {
+    .logo {
+        font: 180px moon light;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .logo-relp{
+        font: 180px moon light;
+    }
+
+}
+
+@media only screen and (max-width: 979px) {
+    .logo-relp{
+        font: 140px moon light;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .logo-relp{
+        font: 120px moon light;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .logo-relp{
+        font: 80px moon light;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .logo-relp{
+        font: 40px moon light;
+    }
+}
