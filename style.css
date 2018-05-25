@@ -1,5 +1,6 @@
 body{
-    background-color: #facd47;
+    background-color: #e4e4e4;
+    /*height: 100%;*/
 }
 
 @font-face {
@@ -27,5 +28,16 @@ body{
 
 }
 .sub-logo{
+}
 
+.cabecalho-card{
+
+}
+.m-t-20{
+    margin-top: 20px;
+}
+.card .card-description {
+  font-size: 18px;
+  font-weight: 300;
+    text-align: center;
 }
