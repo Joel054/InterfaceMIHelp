@@ -1,16 +1,17 @@
 body{
     background-color: #ffff8d;
+    font-family: moon;
     /*height: 100%;*/
 }
 
 @font-face {
-    font-family: moon light;
-    src: url('C:/Users/vitor/Downloads/Moon Light.otf');
+    font-family: moon;
+    src: url('fonts/Moon Light.otf');
 }
 
 @font-face{
     font-family: moon bold;
-    src: url('C:/Users/vitor/Downloads/Moon Bold.otf');
+    src: url('fonts/Moon Bold.otf');
 }
 
 .wrapper {
