@@ -6,12 +6,12 @@ body{
 
 @font-face {
     font-family: moon;
-    src: url('fonts/Moon Light.otf');
+    src: url('fonts/Moon Light.ttf');
 }
 
 @font-face{
     font-family: moon bold;
-    src: url('fonts/Moon Bold.otf');
+    src: url('fonts/Moon Bold.ttf');
 }
 
 .wrapper {
